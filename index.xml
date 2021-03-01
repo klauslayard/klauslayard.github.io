@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Roxo | Creative Design Agency</title>
-    <link>http://klauslayard.github.io/</link>
-    <description>Recent content on Roxo | Creative Design Agency</description>
+    <title>Hargo | Hugo Ecommerce Site</title>
+    <link>https://examplesite.com/</link>
+    <description>Recent content on Hargo | Hugo Ecommerce Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://klauslayard.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
